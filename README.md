@@ -46,12 +46,15 @@ When you loop through different objects and call .move(), each responds in its o
 - Writing clean, reusable code
 
 ## 📂 Project Structure
-Code
+
+```Code
 .
 ├── assignment1.py       # Your custom class + inheritance example
 ├── polymorphism.py      # Polymorphism challenge with animals/vehicles
 ├── README.md            # Project documentation
 └── examples/            # Optional folder for test scripts or demos
+
+```
 ## 🖼️ UML Class Diagram
 Below is a simple UML-style diagram showing how your classes might relate:
 
